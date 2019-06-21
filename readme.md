@@ -25,7 +25,7 @@ management:
   metrics:
     export:
       influx:
-        db: kidflash
+        db: my-db
         uri: http://192.168.5.9:8086
         user-name: admin
         password: admin
